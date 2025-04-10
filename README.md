@@ -7,7 +7,8 @@ The objective of this project is to analyze the sales performance across differe
 
 ## Dashboard
 
-<img width="731" alt="Dashboard_img" src="https://github.com/user-attachments/assets/3574f259-15f9-4b26-bed1-a8eafa68f024" />
+<img width="732" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/05860479-e00a-454e-816c-7a03c53c1cca" />
+
 
 
 ---
